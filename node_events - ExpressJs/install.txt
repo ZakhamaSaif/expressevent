@@ -1,0 +1,10 @@
+•	npm install -g nodemon
+•	npm install express
+•	npm install ejs
+•	npm install bootstrap
+•	npm install jquery
+•	Install mongodb
+•	npm install mongoose
+•	npm install body-parser
+•	npm install - - save express-validator
+•	npm install express-session connect-flash
